@@ -1,6 +1,8 @@
-### Here: Unsupervised algorithms, using cold coding and off shelf
-#### will discuss capabilities and limits around k-means, spectral clustering
+### Here supervised algos, offshelf methods, cross val, time & benchmarking
+#### will discuss potential and limitations for supervised algorithms
 Plan:
-*     what k means can do -- group into separate groups -- visible if plotted, invisible to computer
-*     what spectral clustering can do that kmeans can't -- separate if there's no clear batches, but some kind of circular agglomeration
+* what kNN can do that clustering can't -- classify a point but need labels -- better than iterating over the same set every time in kmeans
+* what svm can do that kNN can't -- faster, knn more accurate, limited to patterns and is parametric -- even faster
 
+clustering vs classification.
+If you have data but have no way to organize the data into meaningful groups, then clustering makes sense.
