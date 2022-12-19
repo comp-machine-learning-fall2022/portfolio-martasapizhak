@@ -2,5 +2,14 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/code_els/homework-5-martasapizhak" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/code_els/homework-6-martasapizhak" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/homework-1-martasapizhak" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/homework-2-martasapizhak" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/homework-3-martasapizhak" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/homework-3-martasapizhak-main" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/homework-4-martasapizhak" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/homework-5-martasapizhak" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/homework-6-martasapizhak" vcs="Git" />
   </component>
 </project>
