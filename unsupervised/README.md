@@ -1,5 +1,12 @@
-### Here: Unsupervised algorithms, using cold coding and off shelf
-#### will discuss capabilities and limits around k-means, spectral clustering
-Plan:
-*     what k means can do -- group into separate groups -- visible if plotted, invisible to computer
-*     what spectral clustering can do that kmeans can't -- separate if there's no clear batches, but some kind of circular agglomeration
+## Summary
+This notebook walks the user through some algorithms used for clustering and explores
+capabilities and limits around k-means, spectral clustering. 
+
+## Files explained
+* clustering.ipynb    Walks the reader through different algorithms used for data clustering
+* data_elbow.csv      Contains data for presenting "elbow" method for evaluating best number of clusters                  
+* data_kmeans.csv     Contains data for presenting k-means capabilities
+* data_spectral.csv   Contains data for presenting spectral clustering capabilities
+* funcs_elbowing.py   Contains functions used for application of elbow method
+* timing.ipynb.py     Walks the reader through concepts of benchmarking applied to k-means implementations 
+* 
