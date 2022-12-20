@@ -8,7 +8,7 @@ a k-means approach for solving it.
 
 In the second part, I explore SVM as a supervised classification algorithm. 
 
-Overall the aim of this element is to present additional way to classify data, walking 
+Overall the aim of this element is to present a way to classify data, walking 
 the reader through the idea of classification and introducing a supervised algorithm for it.
 
 ## Files explained
@@ -59,13 +59,3 @@ process.
 
 ## resources consulted for this file:
 https://www.w3.org/TR/webmachinelearning-ethics/
-
-
-
-
-
-TODO:
-
-add run time in unsup
-
-

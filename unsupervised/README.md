@@ -9,4 +9,3 @@ capabilities and limits around k-means, spectral clustering.
 * data_spectral.csv   Contains data for presenting spectral clustering capabilities
 * funcs_elbowing.py   Contains functions used for application of elbow method
 * timing.ipynb.py     Walks the reader through concepts of benchmarking applied to k-means implementations 
-* 
